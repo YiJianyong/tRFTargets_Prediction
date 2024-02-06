@@ -1,5 +1,12 @@
 # tRFTargets_Prediction
 
+## code
++ 模型代码
++ 数据预处理代码
+
+## data
++ 数据文件较大，未全部上传
+
 ## reference
 
 + [tRForest](https://www.trforest.com/)
